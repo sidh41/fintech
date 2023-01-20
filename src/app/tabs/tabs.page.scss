@@ -1,7 +1,7 @@
 ion-tabs {  
     ion-tab-bar {
         --border: 0px !important;
-        height: 60px;
+        height: 56px;
         box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
         --background: #fff !important;
         ion-tab-button {
@@ -40,7 +40,8 @@ ion-tabs {
 }
 ion-fab
 {
-    margin-bottom: 10px;    
+    margin-bottom: 14px;   
+     
     ion-fab-button
     {
         height: 56px;
