@@ -1,0 +1,7 @@
+{
+  "name": "Fintech",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
